@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://superiorappworks.com/</loc></url>
-  <url><loc>https://superiorappworks.com/sikke/</loc></url>
-  <url><loc>https://superiorappworks.com/sikke/privacy/</loc></url>
-  <url><loc>https://superiorappworks.com/sikke/terms/</loc></url>
-  <url><loc>https://superiorappworks.com/sikke/support/</loc></url>
+  <url><loc>https://superiorappworks.com/</loc><lastmod>2026-09-11</lastmod></url>
+  <url><loc>https://superiorappworks.com/sikke/</loc><lastmod>2026-09-11</lastmod></url>
+  <url><loc>https://superiorappworks.com/sikke/privacy/</loc><lastmod>2026-09-11</lastmod></url>
+  <url><loc>https://superiorappworks.com/sikke/terms/</loc><lastmod>2026-09-11</lastmod></url>
+  <url><loc>https://superiorappworks.com/sikke/support/</loc><lastmod>2026-09-11</lastmod></url>
 </urlset>
